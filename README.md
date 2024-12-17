@@ -42,11 +42,6 @@ JavaParkings é um projeto desenvolvido para facilitar o controle de entradas, s
 
 ---
 
-## **🧲 Licença**  
-Este projeto está licenciado sob a [MIT License](LICENSE).  
-
----
-
 🚀 **JavaParkings** é uma ótima solução para estudos e prática de **Java**, servindo como base para sistemas maiores e mais complexos.
 
 
