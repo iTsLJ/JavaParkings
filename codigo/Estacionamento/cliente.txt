@@ -1,0 +1,15 @@
+lucas
+1
+Veículos:
+Veículo [Placa: poo]
+Veículo [Placa: ABJ8A00]
+Veículo [Placa: 123]
+
+JOn
+4
+Veículos:
+
+1
+5
+Veículos:
+
